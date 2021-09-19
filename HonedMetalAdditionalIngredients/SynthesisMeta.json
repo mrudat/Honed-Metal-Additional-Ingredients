@@ -1,0 +1,8 @@
+{
+  "Nickname": "HonedMetalAdditionalIngredients",
+  "Visibility": "Visible",
+  "OneLineDescription": "Adds additional ingredients for Honed Metal",
+  "LongDescription": "Adds intermediate ingredients (results of recipe 1 needed to craft recipe 2) to Honed Metal's ingredients list where the ingredients for recipe 1 are already in the basic or rare ingredients list.",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": ["HonedMetal.esp"]
+}
